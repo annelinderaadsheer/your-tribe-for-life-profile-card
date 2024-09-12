@@ -1,7 +1,6 @@
 <h1>Hello world</h1>
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
 
-<!-- ProfileCard.svelte -->
 <style>
   * {
     margin: 0;
@@ -66,7 +65,6 @@
   <div class="profile">
     <h1>Hi There! My name is Annelinde and I’m a <span>front-end developer</span></h1>
 
-    <!-- Skills -->
     <div class="skills">
       <h2>My Skills</h2>
       <div class="skill">
